@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/Frontend/">
+    <File Path="SGN.UI/.gitignore" />
+    <File Path="SGN.UI/eslint.config.js" />
+    <File Path="SGN.UI/index.html" />
+    <File Path="SGN.UI/package-lock.json" />
+    <File Path="SGN.UI/package.json" />
+    <File Path="SGN.UI/README.md" />
+    <File Path="SGN.UI/src/App.css" />
+    <File Path="SGN.UI/src/App.jsx" />
+    <File Path="SGN.UI/src/index.css" />
+    <File Path="SGN.UI/src/main.jsx" />
+    <File Path="SGN.UI/vite.config.js" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="SGN.API/SGN.API.csproj" />
+  <Project Path="SGN.DATA/SGN.DATA.csproj" />
+  <Project Path="SGN.DOMAIN/SGN.DOMAIN.csproj" />
+</Solution>
